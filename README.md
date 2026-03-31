@@ -87,8 +87,8 @@ student-performance-ml/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/student-performance-ml.git
-cd student-performance-ml
+git clone https://github.com/Yash0727x/Student-Performance-Predictor-using-ML-main
+cd Student-Performance-Predictor-using-ML-main
 ```
 
 ### 2. Install Dependencies
@@ -157,7 +157,7 @@ The order of input features must match the training data format to ensure accura
 
 ##  Author
 
-**Adish Jain**
+**Yashraj Singh Yadav**
 B.Tech AI & ML
 
 ---
